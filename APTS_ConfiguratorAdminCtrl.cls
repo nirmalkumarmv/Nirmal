@@ -2,7 +2,7 @@
 * Temporary class for testing purpose for configurator admin functionality
 *
 * @author Chintan Mistry
-* @created 2016-06-02 this
+* @created 2016-06-02 this is
 */
 global class APTS_ConfiguratorAdminCtrl{
     public APTS_Configurator_Admin__c oConfigurator{get; set;}
