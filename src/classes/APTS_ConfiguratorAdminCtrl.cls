@@ -1,7 +1,7 @@
 /*
-* Temporary class for testing purpose for configurator admin functionality
+*Temporary class for testing purpose for configurator admin functionality
 *
-* @author Chintan Mistry
+*@author Chintan Mistry
 * @created 2016-06-02 this is why im
 */
 global class APTS_ConfiguratorAdminCtrl{
